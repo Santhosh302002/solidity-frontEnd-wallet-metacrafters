@@ -53,7 +53,7 @@ The Bank application provides the following features:
 Customize the UI and event handling logic in the `Bank.js` file to fit your specific requirements.
 
 ## Contributing
-###L Santhosh Kumar(l.santhoshkumar30@gmail.com)
+### L Santhosh Kumar(l.santhoshkumar30@gmail.com)
 Contributions to this repository are welcome. If you have any improvements or bug fixes, please follow these steps:
 
 1. Fork the repository.

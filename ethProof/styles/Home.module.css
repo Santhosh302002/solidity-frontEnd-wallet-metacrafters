@@ -1,0 +1,70 @@
+.Bannner {
+    height: 500px;
+    width: 500px;
+    display: flex;
+    padding: 20px;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgba(95, 95, 95, 0.4);
+    border-radius: 30px;
+}
+
+.Header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+    padding: 40px;
+}
+
+.textHeader {
+    font-size: 35px;
+}
+
+.card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.name {
+    padding-top: 5px;
+}
+
+.deposit {
+    display: flex;
+    padding-top: 70px;
+    padding-bottom: 10px;
+    width: 500px;
+    height: 30px;
+    align-items: center;
+    justify-content: space-evenly;
+    font-size: larger;
+}
+
+.button {
+    font-size: large;
+    width: 100px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+
+.withDraw {
+    padding-top: 20px;
+    display: flex;
+}
+
+.amount {
+    padding-right: 25px;
+    font-size: larger;
+}
+
+.accountBal {
+    padding-top: 25px;
+    font-size: x-large;
+}
+
+.Balyour {
+    padding-top: 25px;
+    font-size: x-large;
+}

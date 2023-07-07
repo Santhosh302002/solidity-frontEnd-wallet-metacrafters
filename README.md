@@ -26,7 +26,7 @@ To run the application, follow these steps:
 
    ```bash
    cd your-repo
-   npm install
+   yarn add
    ```
 
 3. Configure the Moralis and web3-react libraries with your Ethereum network provider and other necessary settings. Refer to their documentation for detailed instructions.
@@ -36,7 +36,7 @@ To run the application, follow these steps:
 5. Start the React development server:
 
    ```bash
-   npm start
+   yarn run dev
    ```
 
 6. Open your browser and navigate to `http://localhost:3000` to see the application in action.
